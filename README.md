@@ -34,9 +34,11 @@ A passionate Software Engineering (RPL) student focused on building clean, funct
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=satria-mahatir&show_icons=true&theme=tokyonight&count_private=true" alt="Satria's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satria-mahatir&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+<p align="center">
+  <a href="https://github.com/satria-mahatir">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=satria-mahatir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satria-mahatir&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
 </p>
 
 ---
